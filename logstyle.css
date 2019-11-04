@@ -1,0 +1,56 @@
+body {
+    background-image: url(IMG-20180705-WA0028.jpg);
+}
+.lin{ background-image: url(bg1.jpeg);
+    height: 420px;
+    width: 320px;
+    position: absolute;
+    top: 26%;
+    left: 40%;
+    box-sizing: border-box;
+    background-color: ; font-family: fantasy;
+    text-decoration-color: ; text-align: center;
+    padding: 70px 30px;
+}
+.pf
+{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    top: -50px;
+    position: absolute;
+    left: calc(50% - 50px);
+}
+h1{
+    color: ;
+    text-align: center;
+    font-family: fantasy;
+}
+.lin p {
+    font-weight:bold;
+    font-display: fallback;
+}
+.lin input {
+    width: 70%;
+    margin-bottom: 20px;
+}
+.lin input[type="text"],input[type="password"]
+{
+    border: none;
+    border-bottom: 2px solid red;
+    background: transparent;
+}
+.lin input[type="submit"] {
+    text-align: center;
+    width: 100%;
+    border: none;
+    outline: none;
+    background: red;
+    color: antiquewhite;
+    border-radius: 20px;
+    height: 28px;
+}
+.hy {
+    text-align: center;
+    font-family: monospace;
+}
